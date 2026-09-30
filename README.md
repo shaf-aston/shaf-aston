@@ -4,12 +4,12 @@ Speech AI that works with no internet, AI tutors that grade you, and tools that 
 
 ### Start here
 
-| Project  |
+| Project | What it does |
 |---|---|
 | **[Tafheem](https://github.com/shaf-aston/tafheem)** · [live](https://tafheem-app.vercel.app) | Quranic and classical Arabic, word by word: grammar trees, i'raab, morphology, recitation checking by voice, 4 classical dictionaries.  |
-| **[Dictation for Radiology](https://github.com/shaf-aston/Dictation-radio-medical)** | Offline speech-to-text for radiologists. Local Whisper plus a medical correction pipeline, templates, macros, Word export. No patient audio leaves the machine.  |
+| **[Dictation for Radiology](https://github.com/shaf-aston/Dictation-radio-medical)** | Offline speech-to-text for radiologists. No patient audio leaves the machine.  |
 | **[FYP Sales Trainer](https://github.com/shaf-aston/FYP-sales-training-tool)** | Practise a sales call against an AI buyer, then get a turn-by-turn review of where the deal was won or lost.  |
-| **[Acquire Logistics](https://github.com/shaf-aston/acquire-logi-sequence)** | Photo of a cargo list in, priced delivery route out: OCR, fragility rules, 3D packing, Three.js view.  |
+| **[Acquire Logistics](https://github.com/shaf-aston/acquire-logi-sequence)** | Photo of a cargo list in, priced delivery route out, packed in 3D.  |
 | **[One Way Out](https://github.com/shaf-aston/One-Way-Out)** | Live map and control panel for AI coding agents. Zero dependencies.  |
 
 <details>
