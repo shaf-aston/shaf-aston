@@ -23,6 +23,8 @@ Speech AI that works with no internet, AI tutors that grade you, and tools that 
 
 ### How I build
 
+> Seniors don't trust AI-written code. Fair. So I don't let AI decide the design: I set the architecture, and the AI fills it in.
+
 - **Layers.** Thin interface, services that orchestrate, a pure core with no I/O. Logic flows one way.
 - **Swappable parts.** Every model or outside service sits behind one interface; changing engine is a config line.
 - **Proven.** Each design choice is benchmarked: Tafheem's recitation checker, 1,050 recordings, 1.2% error.
