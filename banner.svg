@@ -23,7 +23,7 @@
     <animate attributeName="stroke-dasharray" values="10 20;40 10;10 20" dur="6s" repeatCount="indefinite"/>
   </circle>
   <text x="1080" y="185" text-anchor="middle" font-family="'Amiri','Noto Naskh Arabic',serif" font-size="72" fill="url(#ink)">تفهيم</text>
-  <text x="80" y="140" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="60" font-weight="800" fill="url(#ink)">Muhammed Shafein Hashmi</text>
-  <text x="82" y="190" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1">Full-stack developer · AI products that ship, run locally, cost nothing</text>
-  <text x="82" y="240" font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#7dd3fc">$ python · javascript · typescript · whisper · three.js<tspan fill="#f0abfc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▋</tspan></text>
+  <text x="80" y="140" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="url(#ink)">Muhammed Shafein Hashmi</text>
+  <text x="82" y="190" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1">I build AI that runs offline and proves its accuracy.</text>
+  <text x="82" y="240" font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#7dd3fc">$ 1,050 recordings tested · 1.2% error · 0 data leaves the device<tspan fill="#f0abfc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▋</tspan></text>
 </svg>
