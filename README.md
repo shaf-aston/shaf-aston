@@ -1,4 +1,4 @@
-<img src="banner.svg?v=3" width="100%" alt="Muhammed Shafein Hashmi, full-stack developer" />
+<img src="banner.svg?v=4" width="100%" alt="Muhammed Shafein Hashmi, full-stack developer" />
 
 Speech AI that works with no internet, AI tutors that grade you, and tools that turn a photo into a priced delivery route. Built, measured, shipped.
 
