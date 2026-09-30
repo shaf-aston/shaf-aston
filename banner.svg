@@ -33,5 +33,5 @@
 <circle cx="1070" r="2" fill="#fff" opacity="0.4"><animate attributeName="cy" values="68;252;68" begin="-0.15s" dur="4s" repeatCount="indefinite"/></circle>
   <text x="80" y="140" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="url(#ink)">Muhammed Shafein Hashmi</text>
   <text x="82" y="190" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1">Software architect · clean layers, swappable parts, proven numbers.</text>
-  <text x="82" y="240" font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#7dd3fc">$ innovative architecture · client-focused · agent orchestration<tspan fill="#f0abfc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▋</tspan></text>
+  <text x="82" y="240" font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#7dd3fc">$ innovate architecture · client-focused · agent orchestration<tspan fill="#f0abfc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▋</tspan></text>
 </svg>
