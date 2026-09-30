@@ -15,15 +15,18 @@
   </defs>
   <rect width="1280" height="320" fill="url(#bg)"/>
   <rect width="1280" height="320" fill="url(#grid)"/>
-  <circle cx="1080" cy="160" r="220" fill="#a78bfa" opacity="0.10">
-    <animate attributeName="r" values="200;240;200" dur="8s" repeatCount="indefinite"/>
+  <line x1="1070" y1="68" x2="1070" y2="252" stroke="#ffffff" stroke-opacity="0.15" stroke-dasharray="3 5"/>
+  <polygon points="970,68 1070,38 1170,68 1070,98" fill="#7dd3fc" fill-opacity="0.12" stroke="#7dd3fc" stroke-width="1.5"/>
+  <text x="1070" y="73" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#7dd3fc">interface</text>
+  <polygon points="970,160 1070,130 1170,160 1070,190" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="1.5"/>
+  <text x="1070" y="165" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#a78bfa">services</text>
+  <polygon points="970,252 1070,222 1170,252 1070,282" fill="#f0abfc" fill-opacity="0.12" stroke="#f0abfc" stroke-width="1.5"/>
+  <text x="1070" y="257" text-anchor="middle" font-family="ui-monospace,Consolas,monospace" font-size="15" fill="#f0abfc">core</text>
+  <circle cx="1070" r="5" fill="#ffffff">
+    <animate attributeName="cy" values="68;252;68" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="1080" cy="160" r="120" fill="none" stroke="url(#ink)" stroke-width="2" opacity="0.5">
-    <animateTransform attributeName="transform" type="rotate" from="0 1080 160" to="360 1080 160" dur="30s" repeatCount="indefinite"/>
-    <animate attributeName="stroke-dasharray" values="10 20;40 10;10 20" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <text x="1080" y="185" text-anchor="middle" font-family="'Amiri','Noto Naskh Arabic',serif" font-size="72" fill="url(#ink)">تفهيم</text>
   <text x="80" y="140" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="52" font-weight="800" fill="url(#ink)">Muhammed Shafein Hashmi</text>
-  <text x="82" y="190" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1">I build AI that runs offline and proves its accuracy.</text>
+  <text x="82" y="190" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="26" fill="#cbd5e1">Software architect · clean layers, swappable parts, proven numbers.</text>
   <text x="82" y="240" font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#7dd3fc">$ 1,050 recordings tested · 1.2% error · 0 data leaves the device<tspan fill="#f0abfc"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>▋</tspan></text>
 </svg>

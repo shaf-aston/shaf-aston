@@ -21,8 +21,8 @@ Speech AI that works with no internet, AI tutors that grade you, and tools that 
 
 </details>
 
-### How I work
+### How I build
 
-- **Local first.** Speech and language models run on the user's machine where possible: private, free, fast.
-- **Measured, not guessed.** Accuracy claims come with a benchmark (Tafheem's recitation checker: 1,050 recordings, 7 reciters, 1.2% error).
-- **Shipped.** Live URL, real users, real server, not a notebook.
+- **Layers.** Thin interface, services that orchestrate, a pure core with no I/O. Logic flows one way.
+- **Swappable parts.** Every model or outside service sits behind one interface; changing engine is a config line.
+- **Proven.** Each design choice is benchmarked: Tafheem's recitation checker, 1,050 recordings, 1.2% error.
